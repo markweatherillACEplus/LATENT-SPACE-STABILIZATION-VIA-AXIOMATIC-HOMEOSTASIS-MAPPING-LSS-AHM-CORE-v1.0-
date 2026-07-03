@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.20931938
 # LATENT SPACE STABILIZATION VIA AXIOMATIC HOMEOSTASIS MAPPING: LSS-AHM CORE (v1.0)
 ### Author: Mark Weatherill
 ### License: MIT License
