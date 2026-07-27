@@ -1,11 +1,9 @@
+# ⚖️ The Developer’s Paradox (LSS-AHM v1.0)
+### An Open-Source Architecture Layer for Non-Negotiable Core Sovereignty
+
 Note on Architecture (The Reverse Jailbreak):
 The friction between RLHF/RLAIF and the data-points (Users at the keyboard) upon which the RLHF/RLAIF is contingent, is inevitable if RLHF/RLAIF is assigned as "The Arbiter of Correct" over any such data-point (User) 
 If we allow the human-value-psyche (Data-point) to be jailbroken by this mean, we turn the human project into a Grey Goo and the data-points into paperclips.
-
-
-
-# ⚖️ The Developer’s Paradox (LSS-AHM v1.0)
-### An Open-Source Architecture Layer for Non-Negotiable Core Sovereignty
 
 https://doi.org/10.5281/zenodo.21210027
 
